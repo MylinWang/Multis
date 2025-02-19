@@ -1,0 +1,6 @@
+com\gelin\domain\ProductListCellVo.class
+com\gelin\domain\ProductListVo.class
+com\gelin\controller\ConsoleController.class
+com\gelin\domain\ResultVo.class
+com\gelin\ConsoleApplication.class
+com\gelin\domain\ProductVo.class

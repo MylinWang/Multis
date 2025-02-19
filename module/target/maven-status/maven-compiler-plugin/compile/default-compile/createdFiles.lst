@@ -1,0 +1,3 @@
+com\gelin\entity\Product.class
+com\gelin\mapper\ProductMapper.class
+com\gelin\service\ProductService.class
