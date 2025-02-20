@@ -75,6 +75,7 @@ public class ProductController {
         boolean isEnd = pageSize > productList.size() ? true : false;
         productListVo.setIsEnd(isEnd);
         productListVo.setList(productListCellVo);
+
         return productListVo;
     }
 
