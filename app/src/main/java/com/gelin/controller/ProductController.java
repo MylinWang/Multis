@@ -78,7 +78,6 @@ public class ProductController {
         return productListVo;
     }
 
-
    /* @RequestMapping("/product/list")
     public ProductListVo list(){
         List<Product> productList = productService.getAllProductInfo();
